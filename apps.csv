@@ -1,0 +1,47 @@
+Industry,Company,appID,title,Dwnl 2025-02-10 01,Dwnl 2025-02-14 00,Dwnl 2025-02-22 19,Dwnl 2025-02-24 20,Dwnl 2025-03-19 23
+Fooddelivery,Zomato,com.application.zomato,Zomato: Food Delivery & Dining,277443637.0,277871380,279059777,279390604,282333402
+Fooddelivery,Zomato,com.grofers.customerapp,Blinkit: Grocery in 10 minutes,81305797.0,82135056,83824724,84249425,88305220
+Fooddelivery,Zomato,com.wotu.app,Hyperpure,289648.0,294219,297419,298552,306734
+Fooddelivery,Zomato,com.application.services.partner,Zomato Restaurant Partner,,3795746,3818180,3823816,3876470
+Fooddelivery,Zomato,com.application.services.partner,Zomato Restaurant Partner,,3795746,3818180,3823816,3876470
+Fooddelivery,Swiggy,in.swiggy.android,Swiggy: Food Instamart Dineout,209414109.0,209826371,210700674,210917817,213323586
+Fooddelivery,Swiggy,in.swiggy.android.pop,SNACC: Food Delivered in Mins,28449.0,30636,57110,84728,214265
+Fooddelivery,Swiggy,in.swiggy.android.instamart,Instamart: 10 Mins Grocery App,2435212.0,2927751,4034108,4567509,7510384
+Fooddelivery,Swiggy,in.swiggy.deliveryapp,Swiggy Delivery Partner App,,20892855,21037670,21075086,21484750
+Fooddelivery,Swiggy,in.swiggy.partnerapp,Swiggy Partner App,,3859629,3876053,3881371,3923697
+Fooddelivery,Zepto,com.zeptoconsumerapp,Zepto:10-Min Grocery Delivery*,,81268029,83320567,83837532,87333986
+Fooddelivery,Zepto,com.zeptoconsumerapp.cafe,Zepto Cafe,,2204969,2565687,2658426,3141499
+Fooddelivery,Zepto,com.zepto.rider,Zepto Delivery Partner App,,4160209,4265149,4283187,4577954
+Fooddelivery,Zepto,com.packer.wms,Zepto Warehouse,,243428,251149,253170,271343
+Fooddelivery,Tata Digital Ltd,com.bigbasket.mobileapp,bigbasket: 10 min Grocery App,,77705105,79128421,79449826,82270921
+Fooddelivery,DMart,in.dmart,DMart Ready Online Grocery App,,28161313,28296556,28337704,28681829
+Fooddelivery,Reliance,com.jpl.jiomart,JioMart Online Shopping App,,78413225,78821893,78912012,80075282
+Banking,SBI,com.sbi.lotusintouch,YONO SBI: Banking & Lifestyle,,183758470,184442144,184641201,186480680
+Banking,SBI,com.sbi.SBIFreedomPlus,Yono Lite SBI - Mobile Banking,,83122461,83342934,83407626,83814210
+Banking,SBI,com.sbi.SBAnywhereCorporate,Yono Business,,7036147,7058048,7063799,7835813
+Banking,SBI,com.YONOUKMobileApp,YONO SBI UK,,1064082,1102002,1113458,1527155
+Banking,HDFC,com.snapwork.hdfc,HDFC Bank MobileBanking App,,64855178,65070006,65133525,65758229
+Banking,HDFC,com.hdfc.cbx,HDFC Bank Corp Mobile banking,,734450,735676,736028,739160
+Banking,HDFC,com.hdfcbank.payzapp,"PayZapp UPI, Pixel Credit Card",,20425926,20541010,20562113,20832835
+Banking,HDFC,com.hdfcbank.android.now,HDFC Bank App (Early Access),,106805,134035,140467,188616
+Banking,BOB,com.bankofbaroda.mconnect,bob World,,68177126,68423912,68459389,69117642
+Banking,BOB,com.bankofbaroda.upi,bob इ Pay,,8426045,8714922,8778584,9241655
+Banking,PNB,com.Version1,PNB ONE,,41311411,41521234,41583055,42189171
+Banking,PNB,com.pnbcorp.fn,PNB One BIZ,,194990,204843,208386,229965
+Banking,PNB,com.pnb.cbdc,PNB Digital Rupee,,638671,649593,653346,674458
+Banking,Kotak,com.msf.kbank.mobile,Kotak Mobile Banking App,,77935309,78152351,78189180,78705264
+Banking,Kotak,com.kotak811mobilebankingapp.instantsavingsupiscanandpayrecharge,Kotak811 Mobile Banking,,8326697,9215905,9403665,11691117
+Banking,Kotak,com.snapwork.kotak,Kotak fyn:Business Banking app,,228015,229033,229310,232128
+Banking,Kotak,com.kotak.bank.mobile,Kotak Mobile Banking Lite,,610392,653008,674494,854190
+Banking,ICICI,com.csam.icici.bank.imobile,"iMobile: Loan, Cards & Banking",,59520761,59656472,59678528,60002220
+Banking,ICICI,com.icicibank.ibizz,InstaBIZ: Business Banking App,,6258681,6269100,6271812,6301234
+Banking,Axis bank,com.axis.mobile,"Axis Mobile: Pay, Invest & UPI",,59970985,60310313,60374695,61027748
+Banking,Axis bank,com.axiscorporatebankapp,Neo for Corporates,,28050,28811,29047,36694
+Banking,Axis bank,com.axisbank.neoforbusiness,NEO for Business,,151684,154883,155676,167304
+Banking,Axis bank,com.neo.axis,neo for merchants,,55467,57225,57733,61948
+Banking,Axis bank,com.axisidp.mobile,Axis Mobile - Corporate,,2256566,2266736,2270194,2296648
+Banking,Indusind,com.fss.indus,IndusMobile : Digital Banking,,17244713,17309591,17319416,17465573
+Banking,Indusind,com.indusind.indie,"IndusInd Bank: Saving, FD, UPI",,6927772,7015908,7031019,7288269
+Banking,Indusind,com.indusind.indiebiz,INDIE For Business,,28199,36226,38410,61166
+Banking,Canara,com.canarabank.mobility,Canara ai1- Mobile Banking App,,40241547,40468272,40497525,41057097
+Banking,Canara,com.ofss.canarabank,Canara ai1-Corporate,,301471,306625,308339,321543

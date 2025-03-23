@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excel Table Paster</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        #tableContainer {
+            margin-top: 20px;
+            overflow-x: auto;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            min-width: 600px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Paste Your Excel Table</h1>
+    <textarea id="inputArea" rows="10" cols="80" placeholder="Paste your Excel data here..."></textarea>
+    <button id="renderButton">Render Table</button>
+
+    <div id="tableContainer"></div>
+
+    <script>
+        document.getElementById('renderButton').onclick = function() {
+            const inputData = document.getElementById('inputArea').value;
+            const rows = inputData.split('\n');
+            const table = document.createElement('table');
+            const tbody = document.createElement('tbody');
+
+            rows.forEach(row => {
+                const cells = row.split('\t');
+                const tr = document.createElement('tr');
+                cells.forEach(cell => {
+                    const td = document.createElement('td');
+                    td.textContent = cell;
+                    tr.appendChild(td);
+                });
+                tbody.appendChild(tr);
+            });
+
+            table.appendChild(tbody);
+            const tableContainer = document.getElementById('tableContainer');
+            tableContainer.innerHTML = ''; // Clear previous table
+            tableContainer.appendChild(table);
+        };
+    </script>
+
+</body>
+</html>
